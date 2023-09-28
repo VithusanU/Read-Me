@@ -36,5 +36,5 @@ If you have any questions, you can reach us via:
   email: <Vithusan.business@gmail.com><br>
 
 ### Authors Notes: 
-  _This README and accompanying repo have been brought to you by:_<br>© Sam Azimi - 2023 CodeCamp Studen.<br>Confidential and Proprietary. All Rights Reserved.
+By: Vithusan U
 
