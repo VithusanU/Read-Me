@@ -50,9 +50,6 @@ This app is best used for the highperforming developper who needs to make profes
 ### Tests:
 In the future, I will go the extra mile and write tests for this application. Then provide examples on how to run them here.
 
-dinozio-design
-
-sam@dinozio.design
 
 
 
